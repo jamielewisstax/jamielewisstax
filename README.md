@@ -45,6 +45,7 @@ These were a lot of fun to make (and play of course!). My favorite is the snake 
 ### Current projects:
 <p>
   <a href="https://github.com/jamielewisstax/turtle-crossing"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jamielewisstax&repo=turtle-crossing&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="githib-turtle-crossing"></a>
+</p>
 At the moment I'm working on a crossy road type game, where you have to cross the road safely while avoiding the cars that are driving past.
 Once I've completed that project I'll be diving more into files, directories, paths and CSV data.
 
